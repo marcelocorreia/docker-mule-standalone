@@ -1,1 +1,6 @@
 *.tar.gz
+build.sh
+*.zip
+*.iso
+*.gz
+*.jar
